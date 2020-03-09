@@ -27,7 +27,7 @@
                         </div>
                     </div>
 		            <div class="info" id="ul">
-		                <p>Version: 2.1.23 / Size: 16.6 MB</p>
+		                <p>Version: 2.1.50 / Size: 18.9 MB</p>
 					</div>
 		            <div style="padding-top:20px;">
                         <div class="id" id="id" style="display: none;text-align: left;">
@@ -73,11 +73,11 @@
     </div>
 	<div class="footer">
         <div class="text-center">
-             ©&nbsp;2020 <a href="https://www.jiasu001.xyz/" target="blank">无界云加速—提供技术支持</a>
+             ©&nbsp;2020 <a href="https://www.jiasu001.xyz/" target="blank">无界云加速—提供技术支持</a>  
         </div>
         <div class="text-center">
-             <a href="http://wpa.qq.com/msgrd?v=3&uin=168991926&site=qq&menu=yes" target="blank">账户锁定时，请点击添加客服QQ</a>
-        </div>
+             <a href="http://wpa.qq.com/msgrd?v=3&uin=168991926&site=qq&menu=yes" target="blank">账户锁定时，请点击添加客服QQ</a> 
+        </div>      
 	</div>
 <script type="text/javascript" src="/assets/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/assets/js/clipboard.min.js"></script>
